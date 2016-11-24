@@ -1,0 +1,4 @@
+files:
+  -
+    source: /Resources/translations/*.en.xlf
+    translations: /Resources/translations/%locale%/%file_name%.%locale%.xlf
