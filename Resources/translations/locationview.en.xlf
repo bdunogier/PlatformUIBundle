@@ -1,241 +1,301 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" target-language="en" datatype="plaintext" original="file.ext">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file date="2016-11-27T09:29:03Z" source-language="en" target-language="en" datatype="plaintext" original="not.available">
     <header>
-      <tool tool-id="symfony" tool-name="Symfony"/>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="ec6bad396810c74068261b55cc7842c0" resname="rawcontent.content">
-        <source>rawcontent.content</source>
-        <target>Content</target>
-      </trans-unit>
-      <trans-unit id="fdebbdb6b33acdce757976a6b2bd789c" resname="locationview.details.title">
-        <source>locationview.details.title</source>
-        <target>Content details</target>
-      </trans-unit>
-      <trans-unit id="1a3fca998c2afb303c5e9e2495d6d7fd" resname="locationview.details.creator">
-        <source>locationview.details.creator</source>
-        <target>Creator</target>
-      </trans-unit>
-      <trans-unit id="b7dd57d3f91bbf9b3fa2b423f9343654" resname="locationview.details.errorcreator">
-        <source>locationview.details.errorcreator</source>
-        <target>An error occurred while loading the creator.</target>
-      </trans-unit>
-      <trans-unit id="b0d69fc52d38b836bef824f494b5bb1a" resname="locationview.details.loadingcreator">
-        <source>locationview.details.loadingcreator</source>
-        <target>Loading the creator</target>
-      </trans-unit>
-      <trans-unit id="1455b9610be563fd1965800e369aae43" resname="locationview.details.lastcontributor">
-        <source>locationview.details.lastcontributor</source>
-        <target>Last contributor</target>
-      </trans-unit>
-      <trans-unit id="18a52024ef48ef27fd4f986058bd4a4a" resname="locationview.details.errorcontributor">
-        <source>locationview.details.errorcontributor</source>
-        <target>An error occurred while loading the last contributor.</target>
-      </trans-unit>
-      <trans-unit id="3e130919238ab18ee350fa74dc10ff4c" resname="locationview.details.loadingcontributor">
-        <source>locationview.details.loadingcontributor</source>
-        <target>Loading the last contributor</target>
-      </trans-unit>
-      <trans-unit id="9372965ca8d9c7bd79ac0baeaa8a68db" resname="locationview.details.translations">
-        <source>locationview.details.translations</source>
-        <target>Translations</target>
-      </trans-unit>
-      <trans-unit id="ea38573ef109bef20b00aa86765a3e09" resname="locationview.details.retry">
-        <source>locationview.details.retry</source>
-        <target>Retry</target>
-      </trans-unit>
-      <trans-unit id="f029230effe8b86704b0cd6e93627550" resname="locationview.details.technicaldetails">
-        <source>locationview.details.technicaldetails</source>
-        <target>Technical details</target>
-      </trans-unit>
-      <trans-unit id="43243c62c72fa8db1ff55e1f5826c9c8" resname="locationview.details.contentid">
-        <source>locationview.details.contentid</source>
-        <target>Content Id</target>
-      </trans-unit>
-      <trans-unit id="0c493c8609b3a07905536e4a60066dfc" resname="locationview.details.locationid">
-        <source>locationview.details.locationid</source>
-        <target>Location Id</target>
-      </trans-unit>
-      <trans-unit id="b1389c6d4a5d86f0ce60f1dae2f8a245" resname="locationview.details.contentremoteid">
-        <source>locationview.details.contentremoteid</source>
-        <target>Content remote Id</target>
-      </trans-unit>
-      <trans-unit id="83a431903da44bf75cbeddf08dcbab76" resname="locationview.details.remoteid">
-        <source>locationview.details.remoteid</source>
-        <target>Location remove Id</target>
-      </trans-unit>
-      <trans-unit id="91e040e317bc115d1d9d73d191dbcae8" resname="locationview.details.subitems.default.ordering">
-        <source>locationview.details.subitems.default.ordering</source>
-        <target>Sub-items default ordering</target>
-      </trans-unit>
-      <trans-unit id="f4e95719cd456c9f4ef95b7b84884237" resname="locationview.details.default.listing.of.subitems.by">
-        <source>locationview.details.default.listing.of.subitems.by</source>
-        <target>Default listing of sub-items by</target>
-      </trans-unit>
-      <trans-unit id="9ba79d704fbb3e3ed12070f23d003408" resname="locationview.details.ascending">
-        <source>locationview.details.ascending</source>
+      <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
+        <source>Ascending</source>
         <target>Ascending</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="d4ed1f2e03c8e283495e709ed1674f5d" resname="locationview.details.desceding">
-        <source>locationview.details.desceding</source>
+      <trans-unit id="2e143171eb44b9d8b17a06195b938181101de957" resname="locationview.details.contentid">
+        <source>Content Id</source>
+        <target>Content Id</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="34ce6c404ac9a5a82f9a598d3e4e62916094c351" resname="locationview.details.contentremoteid">
+        <source>Content remote Id</source>
+        <target>Content remote Id</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d270971c445eca4fc0e7cd8ec006341f0ff19354" resname="locationview.details.creator">
+        <source>Creator</source>
+        <target>Creator</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5095b70f3c9ccc1c77ba2d4f8ae1b2ce6121e233" resname="locationview.details.default.listing.of.subitems.by">
+        <source>Default listing of sub-items by</source>
+        <target>Default listing of sub-items by</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="46b548281a09d2ba19e04ca5748d92f41dcdaea5" resname="locationview.details.desceding">
+        <source>Descending</source>
         <target>Descending</target>
       </trans-unit>
-      <trans-unit id="0d686143b05c238b39b6d8a90d6ac374" resname="locationview.locations.location.list.error">
-        <source>locationview.locations.location.list.error</source>
-        <target>An error occurred while loading the locations list.</target>
+      <trans-unit id="5cc52ce2cc763622f266df9138b7e507cca2d7de" resname="locationview.details.errorcontributor">
+        <source>An error occurred while loading the last contributor.</source>
+        <target>An error occurred while loading the last contributor.</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="d98cce45f72a73debff69ccc9003c052" resname="locationview.retry">
-        <source>locationview.retry</source>
+      <trans-unit id="6008df6be918183f2a3896c49dd0d19ee35350d2" resname="locationview.details.errorcreator">
+        <source>An error occurred while loading the creator.</source>
+        <target>An error occurred while loading the creator.</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e0d315cc1f7772de59ebb7a943e5331402f087f4" resname="locationview.details.lastcontributor">
+        <source>Last contributor</source>
+        <target>Last contributor</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2fff74da27de7d17b2f5c89efeab74e664378c33" resname="locationview.details.loadingcontributor">
+        <source>Loading the last contributor</source>
+        <target>Loading the last contributor</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="85dbe816267d441a33ecd4d1778b58f25a350814" resname="locationview.details.loadingcreator">
+        <source>Loading the creator</source>
+        <target>Loading the creator</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7f653bba9440b8a0b2dac47b4c30a5c97ba83678" resname="locationview.details.locationid">
+        <source>Location Id</source>
+        <target>Location Id</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b72d1da8862e8f7f123df770f7733b294d765a3" resname="locationview.details.remoteid">
+        <source>Location remove Id</source>
+        <target>Location remove Id</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d80e1ddcdccb24545ffd7cfc24ca2290bfe2093" resname="locationview.details.retry">
+        <source>Retry</source>
         <target>Retry</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="92a33cabe655a66c7ae9ddc5b937aaff" resname="locationview.locations.path">
-        <source>locationview.locations.path</source>
-        <target>Path</target>
+      <trans-unit id="92ecfb85a6f93f491fb98ca6f584fffaea5d56a2" resname="locationview.details.subitems.default.ordering">
+        <source>Sub-items default ordering</source>
+        <target>Sub-items default ordering</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="a7beb6292defe3596087a75ce8a4c447" resname="locationview.locations.subitems">
-        <source>locationview.locations.subitems</source>
-        <target>Sub-items</target>
+      <trans-unit id="9699a1cb9c610905dddcb2b123fa7ba10a840957" resname="locationview.details.technicaldetails">
+        <source>Technical details</source>
+        <target>Technical details</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="6098dd3e06d9b7a585c0842ba28338a5" resname="locationview.locations.visibility">
-        <source>locationview.locations.visibility</source>
-        <target>Visibility</target>
+      <trans-unit id="dacdbac551cb8fc3eb998fead8834693305ba105" resname="locationview.details.title">
+        <source>Content details</source>
+        <target>Content details</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="5ab3a76ba7373173bac0ea9435b9cc3d" resname="locationview.locations.main">
-        <source>locationview.locations.main</source>
-        <target>Main</target>
+      <trans-unit id="a651fb9282b5626ba9e3a6cdfd1861b981aa1d76" resname="locationview.details.translations">
+        <source>Translations</source>
+        <target>Translations</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f716e2b4f38761d244db448451fb1248" resname="locationview.locations.reveal">
-        <source>locationview.locations.reveal</source>
-        <target>Reveal</target>
-      </trans-unit>
-      <trans-unit id="ffeb5b4ea0fcac3800953a368b62f551" resname="locationview.locations.loading.location.list">
-        <source>locationview.locations.loading.location.list</source>
-        <target>Loading the locations list</target>
-      </trans-unit>
-      <trans-unit id="90a31d3e62f17cb242c5f55f6616e70b" resname="locationview.locations.remove.selected">
-        <source>locationview.locations.remove.selected</source>
-        <target>Remove selected</target>
-      </trans-unit>
-      <trans-unit id="01c3bd7ce587d955510529418a6bd1be" resname="locationview.locations.add.location">
-        <source>locationview.locations.add.location</source>
-        <target>Add Location</target>
-      </trans-unit>
-      <trans-unit id="1a70cfea404291727cc55ce2f60248da" resname="locationview.locations.swap.with.another">
-        <source>locationview.locations.swap.with.another</source>
-        <target>Swap the Content item at this location with another</target>
-      </trans-unit>
-      <trans-unit id="05e6218486f2260611fb0d7160f048dd" resname="locationview.locations.select.content.item">
-        <source>locationview.locations.select.content.item</source>
-        <target>Select Content item</target>
-      </trans-unit>
-      <trans-unit id="533b38bd35d43f6de2699b478f7e67d4" resname="locationview.locations.hidden">
-        <source>locationview.locations.hidden</source>
-        <target>Hidden</target>
-      </trans-unit>
-      <trans-unit id="52dd4e9154b04a4bc5af625d2e134510" resname="locationview.locations.hidden.by.superior">
-        <source>locationview.locations.hidden.by.superior</source>
-        <target>Hidden by superior</target>
-      </trans-unit>
-      <trans-unit id="05ae6556a57b2fd331218d3922277318" resname="locationview.locations.visible">
-        <source>locationview.locations.visible</source>
-        <target>Visible</target>
-      </trans-unit>
-      <trans-unit id="fffd15854c6376494cf6db75143ecf51" resname="locationview.locations.hide">
-        <source>locationview.locations.hide</source>
-        <target>Hide</target>
-      </trans-unit>
-      <trans-unit id="d5300be986c1f8b79194ce95dd533330" resname="locationview.relations.error.loading.related">
-        <source>locationview.relations.error.loading.related</source>
-        <target>An error occurred while loading the related content list.</target>
-      </trans-unit>
-      <trans-unit id="6537554254869d605b1022788cccdfb9" resname="locationview.relations.content">
-        <source>locationview.relations.content</source>
-        <target>Content</target>
-      </trans-unit>
-      <trans-unit id="90d267e68e89138349b8b399a0bbae9d" resname="locationview.relations.relation.type">
-        <source>locationview.relations.relation.type</source>
-        <target>Relation type</target>
-      </trans-unit>
-      <trans-unit id="489bb9fc65e5556ad3e44344fee73612" resname="locationview.relations.no.related.content">
-        <source>locationview.relations.no.related.content</source>
-        <target>This content has no related content.</target>
-      </trans-unit>
-      <trans-unit id="f7d1c943778d2f3d38ab8b3c42e4cd9f" resname="locationview.versions.version">
-        <source>locationview.versions.version</source>
-        <target>Version</target>
-      </trans-unit>
-      <trans-unit id="f1a26f052987f5bd4987cbe5a2b2b430" resname="locationview.versions.language">
-        <source>locationview.versions.language</source>
-        <target>Language</target>
-      </trans-unit>
-      <trans-unit id="7159c01a78447026ed43f0a542027c9c" resname="locationview.versions.author">
-        <source>locationview.versions.author</source>
-        <target>Author</target>
-      </trans-unit>
-      <trans-unit id="fe670d86240f3f6fac4165d71d1d87ca" resname="locationview.versions.created">
-        <source>locationview.versions.created</source>
-        <target>Created</target>
-      </trans-unit>
-      <trans-unit id="1d05e4f29b937597a182cd742821e39c" resname="locationview.versions.last.saved">
-        <source>locationview.versions.last.saved</source>
-        <target>Last saved</target>
-      </trans-unit>
-      <trans-unit id="bfd927ffc6467335e9215f07ba643c55" resname="locationview.versions.edit.selected.draft">
-        <source>locationview.versions.edit.selected.draft</source>
-        <target>Edit selected draft</target>
-      </trans-unit>
-      <trans-unit id="bdf064d2b316c5457b7b3546a7543207" resname="locationview.versions.delete.selected.draft">
-        <source>locationview.versions.delete.selected.draft</source>
-        <target>Delete selected draft</target>
-      </trans-unit>
-      <trans-unit id="5cc451bc29b7ed569fb92f50e6e26cd5" resname="locationview.versions.loading.draft.list">
-        <source>locationview.versions.loading.draft.list</source>
-        <target>Loading the draft list</target>
-      </trans-unit>
-      <trans-unit id="b759e1eb7c9eac77e26cc895e5592192" resname="locationview.versions.loading.published.list">
-        <source>locationview.versions.loading.published.list</source>
-        <target>Loading the published version list</target>
-      </trans-unit>
-      <trans-unit id="f65e933e7f5099aed4c856a7aca809bd" resname="locationview.versions.new.draft.selected.version">
-        <source>locationview.versions.new.draft.selected.version</source>
-        <target>New draft based on selected version</target>
-      </trans-unit>
-      <trans-unit id="6abd57a654107c0753f4f5f229636a40" resname="locationview.versions.remove.selected.archived.version">
-        <source>locationview.versions.remove.selected.archived.version</source>
-        <target>Remove selected archived version(s)</target>
-      </trans-unit>
-      <trans-unit id="db3a6cdbbabfeb6c56807f55e830a7b8" resname="locationview.versions.loading.archived.list">
-        <source>locationview.versions.loading.archived.list</source>
-        <target>Loading the archived version list</target>
-      </trans-unit>
-      <trans-unit id="ea648eed549cb643fb030d541cdc8f65" resname="locationview.versions.error.loading.list">
-        <source>locationview.versions.error.loading.list</source>
-        <target>An error occurred while loading the versions list.</target>
-      </trans-unit>
-      <trans-unit id="f6f38b199866880db688472e57ed6f6f" resname="locationview.details.versions">
-        <source>locationview.details.versions</source>
+      <trans-unit id="64dfe443da2515d16aaa6de73a00c2dd68111c0b" resname="locationview.details.versions">
+        <source>Versions</source>
         <target>Versions</target>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="498ea2da03d5ec1254a61340d45a2737" resname="locationview.locations.content.locations">
-        <source>locationview.locations.content.locations</source>
+      <trans-unit id="cf775f467a5d5f450635af645a5587ada940d885" resname="locationview.locations.add.location">
+        <source>Add Location</source>
+        <target>Add Location</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d97d830f21868cefae182b651cb5399379d61a4e" resname="locationview.locations.content.locations">
+        <source>Content locations</source>
         <target>Content locations</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="646dd94473d2fb6a5c62254e2f7bcaaf" resname="locationview.relations.related.content">
-        <source>locationview.relations.related.content</source>
+      <trans-unit id="33ceaa61b8d64b8c3ea118e4f8d1c172c97f5329" resname="locationview.locations.hidden">
+        <source>Hidden</source>
+        <target>Hidden</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e5850a5016f4965ec5dc59f78bb7e9cd146fc9a4" resname="locationview.locations.hidden.by.superior">
+        <source>Hidden by superior</source>
+        <target>Hidden by superior</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8a1beb515496a34287a6fe56c5e12e752c12a47d" resname="locationview.locations.hide">
+        <source>Hide</source>
+        <target>Hide</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="18ffeb7a312f5b6c621e15a46d902ae1fddefe0f" resname="locationview.locations.loading.location.list">
+        <source>Loading the locations list</source>
+        <target>Loading the locations list</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="84eeb5f06a07ce1fffe674e87dca6905ad4714a5" resname="locationview.locations.location.list.error">
+        <source>An error occurred while loading the locations list.</source>
+        <target>An error occurred while loading the locations list.</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dae83bb328778476ec3e0c5b6db211ca3aa2bc13" resname="locationview.locations.main">
+        <source>Main</source>
+        <target>Main</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4effb18f15a8e0e891860a2b115f08df36a7313" resname="locationview.locations.path">
+        <source>Path</source>
+        <target>Path</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c74cc382c1023b02479021fe7b260023d1287df1" resname="locationview.locations.remove.selected">
+        <source>Remove selected</source>
+        <target>Remove selected</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1f6fe54dbf1b1db82393f87d469612c5b307ea81" resname="locationview.locations.reveal">
+        <source>Reveal</source>
+        <target>Reveal</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
+        <source>Select Content item</source>
+        <target>Select Content item</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b5ab365ec9097447d661364c587dd74a3a2a4da3" resname="locationview.locations.subitems">
+        <source>Sub-items</source>
+        <target>Sub-items</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
+        <source>Swap the Content item at this location with another</source>
+        <target>Swap the Content item at this location with another</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8bf047758974255c4a8001ef57927d5b4098e7b1" resname="locationview.locations.visibility">
+        <source>Visibility</source>
+        <target>Visibility</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4994eadd8f401eba51181d4d3c394792e3ab1bbd" resname="locationview.locations.visible">
+        <source>Visible</source>
+        <target>Visible</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f9c385b31ca9a7d5e7ac7f4bec58bcca1418aa9" resname="locationview.relations.content">
+        <source>Content</source>
+        <target>Content</target>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e9731695b9a4bd13eb374293087855f8ae449be5" resname="locationview.relations.error.loading.related">
+        <source>An error occurred while loading the related content list.</source>
+        <target>An error occurred while loading the related content list.</target>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
+        <source>This content has no related content.</source>
+        <target>This content has no related content.</target>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content">
+        <source>Related content</source>
         <target>Related content</target>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="e3b2e6ca7499f9611ca0dc54ce63a6c1" resname="locationview.versions.draft.under.edit">
-        <source>locationview.versions.draft.under.edit</source>
-        <target>Draft under edit</target>
+      <trans-unit id="8aea3326a700a081784bc0e51f0c91a3583eedc2" resname="locationview.relations.relation.type">
+        <source>Relation type</source>
+        <target>Relation type</target>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="5cf059d175bbc76833af2660cc089e01" resname="locationview.versions.published.version">
-        <source>locationview.versions.published.version</source>
-        <target>Published version</target>
+      <trans-unit id="e23a8cfab8000e4ce2ad014f7b55fb6f777274e4" resname="locationview.retry">
+        <source>Retry</source>
+        <target>Retry</target>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f9c1f1ac084d7a81267b119c71dbcd8e" resname="locationview.versions.archived.versions">
-        <source>locationview.versions.archived.versions</source>
+      <trans-unit id="19f2181b9bb473b99dc985187f631876cebf3b35" resname="locationview.versions.archived.versions">
+        <source>Archived versions</source>
         <target>Archived versions</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b7920f94494966e6db92b3937a84d3add836a812" resname="locationview.versions.author">
+        <source>Author</source>
+        <target>Author</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="47912146dd99224ef2e39362cf689e245bbf604a" resname="locationview.versions.created">
+        <source>Created</source>
+        <target>Created</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="419a69fad078eeaaf43244ac5874bc075affa8dc" resname="locationview.versions.delete.selected.draft">
+        <source>Delete selected draft</source>
+        <target>Delete selected draft</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a7bf4de2ddd469229edee5cf992afa5b2099cd92" resname="locationview.versions.draft.under.edit">
+        <source>Draft under edit</source>
+        <target>Draft under edit</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="150894069d0cf9666ae05e847cce60805208ed82" resname="locationview.versions.edit.selected.draft">
+        <source>Edit selected draft</source>
+        <target>Edit selected draft</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="39ce8495c91402624f5e6729bcdb6bb914a4f9bc" resname="locationview.versions.error.loading.list">
+        <source>An error occurred while loading the versions list.</source>
+        <target>An error occurred while loading the versions list.</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="06c5892ec7611863b644cdbd638e57d83f88a303" resname="locationview.versions.language">
+        <source>Language</source>
+        <target>Language</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5037377a0c7dc615547308d1ed82755e31176c03" resname="locationview.versions.last.saved">
+        <source>Last saved</source>
+        <target>Last saved</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5d85516ece7ea51edb1fcff89135831903ab916b" resname="locationview.versions.loading.archived.list">
+        <source>Loading the archived version list</source>
+        <target>Loading the archived version list</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3362319e8e1f3885e6c6e0bfadf77d7c5774f106" resname="locationview.versions.loading.draft.list">
+        <source>Loading the draft list</source>
+        <target>Loading the draft list</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f5e46b4632894a0a9a2b38eda614267de3e5e229" resname="locationview.versions.loading.published.list">
+        <source>Loading the published version list</source>
+        <target>Loading the published version list</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ab40edd4e3d49edea2de3a5e5339cc9527c9ff03" resname="locationview.versions.new.draft.selected.version">
+        <source>New draft based on selected version</source>
+        <target>New draft based on selected version</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bd9a1564891fdc81516078f86ecdb11dd212e86d" resname="locationview.versions.published.version">
+        <source>Published version</source>
+        <target>Published version</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="51b6a4fff074bf24fc4183bc944890cc849ba82d" resname="locationview.versions.remove.selected.archived.version">
+        <source>Remove selected archived version(s)</source>
+        <target>Remove selected archived version(s)</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="199990450f06a84725d61f91a899166d0d3305c4" resname="locationview.versions.version">
+        <source>Version</source>
+        <target>Version</target>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
+        <source>Content</source>
+        <target>Content</target>
+        <jms:reference-file>./Resources/public/templates/rawcontent.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
