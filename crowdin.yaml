@@ -1,0 +1,56 @@
+files:
+  - source: /Resources/translations/bar.en.xlf
+    translation: /Resources/translations/bar.%locale%.xlf
+    dest: bar.xlf
+  - source: /Resources/translations/confirm.en.xlf
+    translation: /Resources/translations/confirm.%locale%.xlf
+    dest: confirm.xlf
+  - source: /Resources/translations/content_type.en.xlf
+    translation: /Resources/translations/content_type.%locale%.xlf
+    dest: content_type.xlf
+  - source: /Resources/translations/contentedit.en.xlf
+    translation: /Resources/translations/contentedit.%locale%.xlf
+  - source: /Resources/translations/contenttypeselector.en.xlf
+    translation: /Resources/translations/contenttypeselector.%locale%.xlf
+  - source: /Resources/translations/dashboard.en.xlf
+    translation: /Resources/translations/dashboard.%locale%.xlf
+  - source: /Resources/translations/dashboardblocks.en.xlf
+    translation: /Resources/translations/dashboardblocks.%locale%.xlf
+  - source: /Resources/translations/editorial.en.xlf
+    translation: /Resources/translations/editorial.%locale%.xlf
+  - source: /Resources/translations/ezrepoforms_content_type.en.xlf
+    translation: /Resources/translations/ezrepoforms_content_type.%locale%.xlf
+  - source: /Resources/translations/fieldedit.en.xlf
+    translation: /Resources/translations/fieldedit.%locale%.xlf
+  - source: /Resources/translations/fieldview.en.xlf
+    translation: /Resources/translations/fieldview.%locale%.xlf
+  - source: /Resources/translations/general.en.xlf
+    translation: /Resources/translations/general.%locale%.xlf
+  - source: /Resources/translations/language.en.xlf
+    translation: /Resources/translations/language.%locale%.xlf
+  - source: /Resources/translations/languageselection.en.xlf
+    translation: /Resources/translations/languageselection.%locale%.xlf
+  - source: /Resources/translations/locationview.en.xlf
+    translation: /Resources/translations/locationview.%locale%.xlf
+  - source: /Resources/translations/login.en.xlf
+    translation: /Resources/translations/login.%locale%.xlf
+  - source: /Resources/translations/navigationhub.en.xlf
+    translation: /Resources/translations/navigationhub.%locale%.xlf
+  - source: /Resources/translations/role.en.xlf
+    translation: /Resources/translations/role.%locale%.xlf
+  - source: /Resources/translations/search.en.xlf
+    translation: /Resources/translations/search.%locale%.xlf
+  - source: /Resources/translations/section.en.xlf
+    translation: /Resources/translations/section.%locale%.xlf
+  - source: /Resources/translations/subitem.en.xlf
+    translation: /Resources/translations/subitem.%locale%.xlf
+  - source: /Resources/translations/systeminfo.en.xlf
+    translation: /Resources/translations/systeminfo.%locale%.xlf
+  - source: /Resources/translations/trash.en.xlf
+    translation: /Resources/translations/trash.%locale%.xlf
+  - source: /Resources/translations/tree.en.xlf
+    translation: /Resources/translations/tree.%locale%.xlf
+  - source: /Resources/translations/universaldiscovery.en.xlf
+    translation: /Resources/translations/universaldiscovery.%locale%.xlf
+  - source: /Resources/translations/validators.en.xlf
+    translation: /Resources/translations/validators.%locale%.xlf
