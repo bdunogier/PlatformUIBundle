@@ -30,9 +30,9 @@
         <source>Move</source>
         <target xml:lang="fr" state="translated">Déplacer</target>
       </trans-unit>
-      <trans-unit id="0c208e52af8963639637f9c9ce2163bd98d1628e" resname="actionbar.sendToTrash">
+      <trans-unit id="0c208e52af8963639637f9c9ce2163bd98d1628e" resname="actionbar.sendToTrash" approved="yes">
         <source>Send to Trash</source>
-        <target xml:lang="fr" state="translated">Envoyer à la corbeille</target>
+        <target xml:lang="fr">Envoyer à la corbeille</target>
       </trans-unit>
       <trans-unit id="5b0a413f93880e60e8da0cc54c3d2643afef840c" resname="actionbar.translate">
         <source>Translations</source>
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="05bd808967aac1311d193cc98d15b0f736c8343d" resname="navigationhub.section.list">
         <source>Sections</source>
-        <target xml:lang="fr" state="needs-translation">Sections</target>
+        <target xml:lang="fr" state="translated">Sections</target>
       </trans-unit>
       <trans-unit id="2ee246e2cc6a385e5ae2d5cbc7b5611e2de3a799" resname="navigationhub.system.information">
         <source>System information</source>
@@ -104,11 +104,11 @@
       </trans-unit>
       <trans-unit id="e296e7a38799c79dee11c3e18ac42150c9f02673" resname="navigationhub.zone.studio">
         <source>Page</source>
-        <target xml:lang="fr" state="needs-translation">Page</target>
+        <target xml:lang="fr" state="translated">Page</target>
       </trans-unit>
       <trans-unit id="6ab1d96fc11727d94958674d980864844202f89a" resname="navigationhub.zone.studioplus">
         <source>Performance</source>
-        <target xml:lang="fr" state="needs-translation">Performance</target>
+        <target xml:lang="fr" state="translated">Performance</target>
       </trans-unit>
     </body>
   </file>
