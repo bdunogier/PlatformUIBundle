@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="6d613a1ee01eec4c0f8ca66df0db71dca0c6e1cf" resname="database">
         <source>Database</source>
-        <target xml:lang="fr" state="needs-translation">Database</target>
+        <target xml:lang="fr" state="translated">Base de données</target>
       </trans-unit>
       <trans-unit id="5588036c51b3fff9557483e210bfd47187f54ac8" resname="database.host">
         <source>Host</source>
@@ -44,15 +44,15 @@
       </trans-unit>
       <trans-unit id="07596f183f5e91b1778d5e47b2752b8d42aa763d" resname="disabled">
         <source>Disabled</source>
-        <target xml:lang="fr" state="needs-translation">Disabled</target>
+        <target xml:lang="fr" state="translated">Désactivé</target>
       </trans-unit>
       <trans-unit id="8b7c85cc59eaace21dd95a11d6cc60f250f8d949" resname="ez.platform.version">
         <source>You are using eZ Platform version</source>
-        <target xml:lang="fr" state="needs-translation">You are using eZ Platform version</target>
+        <target xml:lang="fr" state="translated">Vous utilisez eZ Platform version</target>
       </trans-unit>
       <trans-unit id="608cb271bb7fb52c99a1a8e003e0f80f57fb41e1" resname="hardware">
         <source>Hardware</source>
-        <target xml:lang="fr" state="needs-translation">Hardware</target>
+        <target xml:lang="fr" state="translated">Matériel</target>
       </trans-unit>
       <trans-unit id="36e28681ccaef76bcf472621fff21ebaed4a767b" resname="kernel.running">
         <source>running on kernel</source>
@@ -60,7 +60,7 @@
       </trans-unit>
       <trans-unit id="81c5d49be9505089d8d248ea96f6d077fd0ab9bd" resname="memory">
         <source>Memory</source>
-        <target xml:lang="fr" state="needs-translation">Memory</target>
+        <target xml:lang="fr" state="translated">Mémoire</target>
       </trans-unit>
       <trans-unit id="a5a3d389f27a890d41a05f33c37b2f6133497c88" resname="mhz">
         <source>MHz</source>
@@ -84,7 +84,7 @@
       </trans-unit>
       <trans-unit id="6ccc27b3711fee7bc023ce85db5d93ac1fb8ce3f" resname="php.accelerator.not.found">
         <source>No PHP Accelerator found.</source>
-        <target xml:lang="fr" state="needs-translation">No PHP Accelerator found.</target>
+        <target xml:lang="fr" state="translated">Aucun PHP Accelerator trouvé.</target>
       </trans-unit>
       <trans-unit id="ee982f9a979085f2f15b3ddc699bfada99429bb4" resname="php.info">
         <source>PHP info</source>
@@ -92,15 +92,15 @@
       </trans-unit>
       <trans-unit id="3de4f901fffb30ac720b0e7eb654b4faa2dd03fa" resname="server">
         <source>Server</source>
-        <target xml:lang="fr" state="needs-translation">Server</target>
+        <target xml:lang="fr" state="translated">Serveur</target>
       </trans-unit>
       <trans-unit id="c981d125d1a564c9f5738faff51d59d98711f145" resname="software">
         <source>Software</source>
-        <target xml:lang="fr" state="needs-translation">Software</target>
+        <target xml:lang="fr" state="translated">Logiciel</target>
       </trans-unit>
       <trans-unit id="ba8ef90b5e9e6f49a11ea38ed53fdc4d8f24250a" resname="symfony.based">
         <source>based on Symfony</source>
-        <target xml:lang="fr" state="needs-translation">based on Symfony</target>
+        <target xml:lang="fr" state="translated">basé sur Symfony</target>
       </trans-unit>
       <trans-unit id="98c89e1daa8c0a7c472af26752752299ff44ee23" resname="symfony_kernel">
         <source>Symfony kernel</source>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="345e6e0c761b74267435f4057f0eb3ef2ae2bc53" resname="system.information">
         <source>System information</source>
-        <target xml:lang="fr" state="needs-translation">System information</target>
+        <target xml:lang="fr" state="translated">Information système</target>
       </trans-unit>
     </body>
   </file>
