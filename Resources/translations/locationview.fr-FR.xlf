@@ -222,12 +222,12 @@
       </trans-unit>
       <trans-unit id="b7920f94494966e6db92b3937a84d3add836a812" resname="locationview.versions.author">
         <source>Author</source>
-        <target xml:lang="fr" state="needs-translation">Author</target>
+        <target xml:lang="fr" state="translated">Auteur</target>
         <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="47912146dd99224ef2e39362cf689e245bbf604a" resname="locationview.versions.created">
         <source>Created</source>
-        <target xml:lang="fr" state="needs-translation">Created</target>
+        <target xml:lang="fr" state="translated">Date de création</target>
         <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="419a69fad078eeaaf43244ac5874bc075affa8dc" resname="locationview.versions.delete.selected.draft">
@@ -252,12 +252,12 @@
       </trans-unit>
       <trans-unit id="06c5892ec7611863b644cdbd638e57d83f88a303" resname="locationview.versions.language">
         <source>Language</source>
-        <target xml:lang="fr" state="needs-translation">Language</target>
+        <target xml:lang="fr" state="translated">Langue</target>
         <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="5037377a0c7dc615547308d1ed82755e31176c03" resname="locationview.versions.last.saved">
         <source>Last saved</source>
-        <target xml:lang="fr" state="needs-translation">Last saved</target>
+        <target xml:lang="fr" state="translated">Sauvegardé</target>
         <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="5d85516ece7ea51edb1fcff89135831903ab916b" resname="locationview.versions.loading.archived.list">
@@ -292,7 +292,7 @@
       </trans-unit>
       <trans-unit id="199990450f06a84725d61f91a899166d0d3305c4" resname="locationview.versions.version">
         <source>Version</source>
-        <target xml:lang="fr" state="needs-translation">Version</target>
+        <target xml:lang="fr" state="translated">Version</target>
         <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
