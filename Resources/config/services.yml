@@ -268,3 +268,15 @@ services:
             - "@=service('kernel').locateResource('@eZPlatformUIBundle/bin/Translation/translation_dumper.js')"
         tags:
             - { name: translation.extractor, alias: javascript }
+
+    ezsystems.platformui.translation.file_visitor.handlebars:
+        class: EzSystems\PlatformUIBundle\Translation\HandleBarsFileVisitor
+        tags:
+            - { name: jms_translation.file_visitor, alias: ez_handlebars }
+
+    ezsystems.platformui.translation.file_visitor.javascript:
+        class: EzSystems\PlatformUIBundle\Translation\JavascriptFileVisitor
+        arguments:
+            - "@=service('kernel').locateResource('@eZPlatformUIBundle/bin/Translation/translation_dumper.js')"
+        tags:
+            - { name: jms_translation.file_visitor, alias: ez_javascript }
