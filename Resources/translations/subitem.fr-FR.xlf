@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="d5c97668af30fef2819f3f52add12af828cbe9b3" resname="subitem.no.subitem">
         <source>This location has no sub-item.</source>
-        <target xml:lang="fr" state="needs-translation">This location has no sub-item.</target>
+        <target xml:lang="fr" state="translated">Cet emplacement n'a pas de sous-éléments.</target>
         <jms:reference-file>./Resources/public/templates/subitem/grid.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/subitem/list.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="5f58a440086c7ddb295d36e1b7b58af48b6f568a" resname="subitem.subitems">
         <source>Sub-items</source>
-        <target xml:lang="fr" state="needs-translation">Sub-items</target>
+        <target xml:lang="fr" state="translated">Sous-éléments</target>
         <jms:reference-file>./Resources/public/templates/subitembox.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="3cae0754bed733e5785947e0b1a795ffeacb8a12" resname="viewing.out.of.items">
