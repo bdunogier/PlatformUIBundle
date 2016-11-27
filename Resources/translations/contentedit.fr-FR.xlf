@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file date="2016-11-27T09:29:03Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="7550b672e162c224c309bdea5d48ca975081a904" resname="change">
+        <source>(change)</source>
+        <target xml:lang="fr" state="needs-translation">(change)</target>
+        <jms:reference-file>./Resources/public/templates/contentedit.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f3528c72d108e105ecdb31e377a3514595dcfa6a" resname="content.id.location.id">
+        <source>Content ID: %contentId%, Location ID: %locationId%</source>
+        <target xml:lang="fr" state="needs-translation">Content ID: %contentId%, Location ID: %locationId%</target>
+        <jms:reference-file>./Resources/public/templates/contentedit.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="54a68935aefb2a88a794f8b85d8c3170588edb3f" resname="contentedit.close.preview">
+        <source>Close preview</source>
+        <target xml:lang="fr" state="needs-translation">Close preview</target>
+        <jms:reference-file>./Resources/public/templates/editpreview.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7403ac1a8e8db35e577bf4e7ca7c3a7122a2169e" resname="contentedit.previewing">
+        <source>Previewing</source>
+        <target xml:lang="fr" state="needs-translation">Previewing</target>
+        <jms:reference-file>./Resources/public/templates/editpreview.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="55bfafdd36ab25c84547ddc2ecfc0fb802565885" resname="created.by">
+        <source>Created by %name%</source>
+        <target xml:lang="fr" state="needs-translation">Created by %name%</target>
+        <jms:reference-file>./Resources/public/templates/contentedit.hbt</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
