@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
         <source>Ascending</source>
-        <target xml:lang="fr" state="needs-translation">Ascending</target>
+        <target xml:lang="fr" state="translated">Croissant</target>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="2e143171eb44b9d8b17a06195b938181101de957" resname="locationview.details.contentid">
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="5095b70f3c9ccc1c77ba2d4f8ae1b2ce6121e233" resname="locationview.details.default.listing.of.subitems.by">
         <source>Default listing of sub-items by</source>
-        <target xml:lang="fr" state="needs-translation">Default listing of sub-items by</target>
+        <target xml:lang="fr" state="translated">Trier par défaut les éléments par</target>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="46b548281a09d2ba19e04ca5748d92f41dcdaea5" resname="locationview.details.desceding">
         <source>Descending</source>
-        <target xml:lang="fr" state="needs-translation">Descending</target>
+        <target xml:lang="fr" state="translated">Décroissant</target>
       </trans-unit>
       <trans-unit id="5cc52ce2cc763622f266df9138b7e507cca2d7de" resname="locationview.details.errorcontributor">
         <source>An error occurred while loading the last contributor.</source>
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="2b72d1da8862e8f7f123df770f7733b294d765a3" resname="locationview.details.remoteid">
         <source>Location remove Id</source>
-        <target xml:lang="fr" state="needs-translation">Location remove Id</target>
+        <target xml:lang="fr" state="translated">Remote Id de l'emplacement</target>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="4d80e1ddcdccb24545ffd7cfc24ca2290bfe2093" resname="locationview.details.retry">
@@ -77,7 +77,7 @@
       </trans-unit>
       <trans-unit id="92ecfb85a6f93f491fb98ca6f584fffaea5d56a2" resname="locationview.details.subitems.default.ordering">
         <source>Sub-items default ordering</source>
-        <target xml:lang="fr" state="needs-translation">Sub-items default ordering</target>
+        <target xml:lang="fr" state="translated">Classement par défaut des sous-éléments</target>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="9699a1cb9c610905dddcb2b123fa7ba10a840957" resname="locationview.details.technicaldetails">
@@ -102,12 +102,12 @@
       </trans-unit>
       <trans-unit id="cf775f467a5d5f450635af645a5587ada940d885" resname="locationview.locations.add.location">
         <source>Add Location</source>
-        <target xml:lang="fr" state="needs-translation">Add Location</target>
+        <target xml:lang="fr" state="translated">Ajouter un emplacement</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="d97d830f21868cefae182b651cb5399379d61a4e" resname="locationview.locations.content.locations">
         <source>Content locations</source>
-        <target xml:lang="fr" state="needs-translation">Content locations</target>
+        <target xml:lang="fr" state="translated">Emplacements du contenu</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="33ceaa61b8d64b8c3ea118e4f8d1c172c97f5329" resname="locationview.locations.hidden">
@@ -122,7 +122,7 @@
       </trans-unit>
       <trans-unit id="8a1beb515496a34287a6fe56c5e12e752c12a47d" resname="locationview.locations.hide">
         <source>Hide</source>
-        <target xml:lang="fr" state="needs-translation">Hide</target>
+        <target xml:lang="fr" state="translated">Cacher</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="18ffeb7a312f5b6c621e15a46d902ae1fddefe0f" resname="locationview.locations.loading.location.list">
@@ -137,17 +137,17 @@
       </trans-unit>
       <trans-unit id="dae83bb328778476ec3e0c5b6db211ca3aa2bc13" resname="locationview.locations.main">
         <source>Main</source>
-        <target xml:lang="fr" state="needs-translation">Main</target>
+        <target xml:lang="fr" state="translated">Principal</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="e4effb18f15a8e0e891860a2b115f08df36a7313" resname="locationview.locations.path">
         <source>Path</source>
-        <target xml:lang="fr" state="needs-translation">Path</target>
+        <target xml:lang="fr" state="translated">Chemin</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="c74cc382c1023b02479021fe7b260023d1287df1" resname="locationview.locations.remove.selected">
         <source>Remove selected</source>
-        <target xml:lang="fr" state="needs-translation">Remove selected</target>
+        <target xml:lang="fr" state="translated">Supprimer la sélection</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="1f6fe54dbf1b1db82393f87d469612c5b307ea81" resname="locationview.locations.reveal">
@@ -157,27 +157,27 @@
       </trans-unit>
       <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
         <source>Select Content item</source>
-        <target xml:lang="fr" state="needs-translation">Select Content item</target>
+        <target xml:lang="fr" state="translated">Sélectionner le contenu</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="b5ab365ec9097447d661364c587dd74a3a2a4da3" resname="locationview.locations.subitems">
         <source>Sub-items</source>
-        <target xml:lang="fr" state="needs-translation">Sub-items</target>
+        <target xml:lang="fr" state="translated">Sous-élements</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
         <source>Swap the Content item at this location with another</source>
-        <target xml:lang="fr" state="needs-translation">Swap the Content item at this location with another</target>
+        <target xml:lang="fr" state="translated">Echanger le contenu de cet emplacement avec un autre</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="8bf047758974255c4a8001ef57927d5b4098e7b1" resname="locationview.locations.visibility">
         <source>Visibility</source>
-        <target xml:lang="fr" state="needs-translation">Visibility</target>
+        <target xml:lang="fr" state="translated">Visibilité</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="4994eadd8f401eba51181d4d3c394792e3ab1bbd" resname="locationview.locations.visible">
         <source>Visible</source>
-        <target xml:lang="fr" state="needs-translation">Visible</target>
+        <target xml:lang="fr" state="translated">Visible</target>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="5f9c385b31ca9a7d5e7ac7f4bec58bcca1418aa9" resname="locationview.relations.content">
@@ -192,12 +192,15 @@
       </trans-unit>
       <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
         <source>This content has no related content.</source>
-        <target xml:lang="fr" state="needs-translation">This content has no related content.</target>
+        <target xml:lang="fr" state="translated">Ce contenu n'est lié à aucun autre.</target>
         <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Ce contenu n'est relié à aucun autre.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content">
         <source>Related content</source>
-        <target xml:lang="fr" state="needs-translation">Related content</target>
+        <target xml:lang="fr" state="translated">Contenu lié</target>
         <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="8aea3326a700a081784bc0e51f0c91a3583eedc2" resname="locationview.relations.relation.type">
@@ -279,7 +282,7 @@
       </trans-unit>
       <trans-unit id="bd9a1564891fdc81516078f86ecdb11dd212e86d" resname="locationview.versions.published.version">
         <source>Published version</source>
-        <target xml:lang="fr" state="needs-translation">Published version</target>
+        <target xml:lang="fr" state="translated">Version publiée</target>
         <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="51b6a4fff074bf24fc4183bc944890cc849ba82d" resname="locationview.versions.remove.selected.archived.version">
@@ -294,7 +297,7 @@
       </trans-unit>
       <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
         <source>Content</source>
-        <target xml:lang="fr" state="needs-translation">Content</target>
+        <target xml:lang="fr" state="translated">Contenu</target>
         <jms:reference-file>./Resources/public/templates/rawcontent.hbt</jms:reference-file>
       </trans-unit>
     </body>
