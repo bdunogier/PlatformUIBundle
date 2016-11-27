@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="6ffbb9b14f98e94b8dda5418ef3910942b42c44e" resname="search.search">
         <source>Search</source>
-        <target xml:lang="fr" state="needs-translation">Search</target>
+        <target xml:lang="fr" state="translated">Rechercher</target>
         <jms:reference-file>./Resources/public/templates/searchview.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="25cda398863dd104cebf8932e6ba226d0f4f1641" resname="search.search.content">
         <source>Search content:</source>
-        <target xml:lang="fr" state="needs-translation">Search content:</target>
+        <target xml:lang="fr" state="translated">Rechercher du contenu:</target>
         <jms:reference-file>./Resources/public/templates/searchview.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="e9fbb7ba38fa94be8b417699fb729a60c7b8ab48" resname="show.more.results">
