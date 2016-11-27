@@ -65,7 +65,7 @@
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
         <source>Title</source>
-        <target xml:lang="fr" state="needs-translation">Title</target>
+        <target xml:lang="fr" state="translated">Tableau de bord</target>
         <jms:reference-file>./Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
