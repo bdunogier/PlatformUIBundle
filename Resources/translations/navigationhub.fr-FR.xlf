@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="b3ae3658840e3e375d5c88eb4abc96f3efe0ade8" resname="navigationhub.logo.ez">
         <source>Logo eZ</source>
-        <target xml:lang="fr" state="needs-translation">Logo eZ</target>
+        <target xml:lang="fr" state="translated">Logo eZ</target>
         <jms:reference-file>./Resources/public/templates/navigationhub.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="4f5a9c342a40becc3f806f44fdda706f513cea4d" resname="navigationhub.more">
         <source>More</source>
-        <target xml:lang="fr" state="needs-translation">More</target>
+        <target xml:lang="fr" state="translated">Pus</target>
         <jms:reference-file>./Resources/public/templates/navigationhub.hbt</jms:reference-file>
       </trans-unit>
     </body>
