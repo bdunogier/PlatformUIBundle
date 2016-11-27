@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
         <source>The trash is empty</source>
-        <target xml:lang="fr" state="needs-translation">The trash is empty</target>
+        <target xml:lang="fr" state="translated">La corbeille est vide</target>
         <jms:reference-file>./Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="9bedf5469883778a8aac2f2a0daaa7664704069b" resname="trash.header.name">
         <source>Trash</source>
-        <target xml:lang="fr" state="needs-translation">Trash</target>
+        <target xml:lang="fr" state="translated">Corbeille</target>
         <jms:reference-file>./Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="3a3e7b9bb64031650fdee83795a1ff063f6e655b" resname="trash.name.label">
