@@ -1,0 +1,3 @@
+files:
+  - source: /bundle/Resources/translations/ezplatform_fields_groups.en.xlf
+    translation: /bundle/Resources/translations/ezplatform_fields_groups.%locale%.xlf
