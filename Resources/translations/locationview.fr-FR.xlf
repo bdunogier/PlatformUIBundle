@@ -295,9 +295,9 @@
         <target xml:lang="fr" state="translated">Version</target>
         <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
+      <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content" approved="yes">
         <source>Content</source>
-        <target xml:lang="fr" state="translated">Contenu</target>
+        <target xml:lang="fr">Contenu</target>
         <jms:reference-file>./Resources/public/templates/rawcontent.hbt</jms:reference-file>
       </trans-unit>
     </body>
