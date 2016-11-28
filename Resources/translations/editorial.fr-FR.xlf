@@ -63,7 +63,10 @@
       </trans-unit>
       <trans-unit id="2338455ec2fdf1d720446cbf9103ea5e44c772d2" resname="navigationhub.content.structure">
         <source>Content structure</source>
-        <target xml:lang="fr" state="translated">Structure du contenu</target>
+        <target xml:lang="fr" state="translated">Contenu</target>
+        <alt-trans>
+          <target xml:lang="fr">Structure du contenu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="404d24ec036d0f0f7590d7d63fa9ba64d19116e7" resname="navigationhub.content_type.dashboard_title">
         <source>Content types</source>
@@ -79,7 +82,10 @@
       </trans-unit>
       <trans-unit id="7bd6ca1c2f35a3578ca48a6ef671f4b370a4f93a" resname="navigationhub.media.library">
         <source>Media library</source>
-        <target xml:lang="fr" state="translated">Bibliothèque de média</target>
+        <target xml:lang="fr" state="translated">Médiathèque</target>
+        <alt-trans>
+          <target xml:lang="fr">Bibliothèque de média</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cb156e3f0e5acefaace3ae69a36edcfdd4335035" resname="navigationhub.role.list">
         <source>Roles</source>
